@@ -1,0 +1,2 @@
+id,name,clazz,oemId,tenantId,timeZone,maxValue,minValue,samplingRate,samplingRateUnit
+30001,OMG_TEST,Sensor,30001,EIOT,Z,,,0,
